@@ -65,8 +65,8 @@ A modern, responsive real estate website built with React and Tailwind CSS that 
 7) Contact Info
 <img width="1712" height="782" alt="image" src="https://github.com/user-attachments/assets/1edd1064-668f-4890-b1ef-5c777a51ab2a" />
 
-
-
+## Deployment Link
+https://real-estate-platform-alpha.vercel.app/
 
 
 
